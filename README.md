@@ -14,3 +14,8 @@ Stage-B-Assessment.ipynb
 ## Weeks 3 (Wed 5th Aug - Tue 25th Aug)
 Hands on Setting Up Kubernetes on AWS EKS (Elastic Kubernetes Service), GCP (Google Cloud Platform), and IBM Cloud Kubernetes Service (IKS)
 
+## Weeks 4 (Wed 26th Aug - Tue 22nd Sep)
+Setup (locsl installation) Kubernetes running atop Microk8s inside a native Hypervisor
+
+## Weeks 5 (Wed 23rd Sep - Tue 13th Oct)
+Set up Model training pipelines with Kubeflow
